@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Secrets & Data
+config.json
+users.xlsx
+used_users.json
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Product content (sensitive)
+contents/
+*.docx
